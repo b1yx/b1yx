@@ -129,7 +129,7 @@ Automation and productivity-focused tools.
 
 ## 📫 Connect With Me
 
-📧 Email: su.edu.ye@25160202
+📧 Email: eng.kholoodalabsi@gmail.com
 
 💻 GitHub: https://github.com/b1yx
 
